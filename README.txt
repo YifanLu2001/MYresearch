@@ -2,6 +2,8 @@
 ******************These are the source MATLAB codes of 22 classic demosaicing algorithms discussed in my survey:      
 ******************'Research on DoFP Demosaicking Algorithms'.      
 
+
+
 (1) How to run the algorithms? If you want to:
 
            1. View the demosaicked images of one algorithm:
@@ -12,6 +14,8 @@
             Download the algorithm's folder, the 'general_functions' folder and the 'RGB_images' folder. PUT THE LAST 2 INTO THE FIRST FOLDER.
             Run code 'GET_EXCEL.m' with MATLAB. The PSNR Excel 'results' will be stored in the current folder.                                          
             Excel: Each row represents a scenario. Each column represents a polarization parameter in sequence: I0, I45, I90, I135, S0, S1, S2, DOLP, AOLP and t.
+
+
 
 (2) Then each folder (one algorithm) will consist of  5 parts:
 
