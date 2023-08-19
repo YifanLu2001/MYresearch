@@ -1,5 +1,5 @@
-****************This is an instruction to run the GUI and get the surface tension coefficient.
-****************There are 4 folders containing test images, so it's no need to take new photos.
+****************This is a 10-step instruction to run the GUI and get the surface tension coefficient.
+****************The paper is attached. You can also find it at http://dxwl.bnu.edu.cn/CN/10.16854/j.cnki.1000-0712.220196
 
     1. Run the 'surfaceGUI.m' with MATLAB.
 
