@@ -1,6 +1,6 @@
 
-******************These are the source MATLAB codes of 22 classic demosaicing algorithms discussed in my survey:      
-******************'Research on DoFP Demosaicking Algorithms'.      
+******************These are the MATLAB codes of 22 classic demosaicing algorithms discussed in my survey:
+******************'Research on DoFP Demosaicking Algorithms'       
 
 
 
