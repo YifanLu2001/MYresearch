@@ -1,5 +1,5 @@
 # MYresearch
-Includes the codes from my 2 undergraduate studies, each in one of those folders above.
+This repertory includes the codes from my 2 undergraduate studies.
 
 The folder '22-demosicking-algorithms' contains all MATLAB codes of the research, an English-version article, and a Chinese-version article. 
 
