@@ -22,12 +22,11 @@
             1. Run_XXX.m
             *This code shows the algorithm's demosaicing images of a polarized scenario.
             Input:   I0, I45, I90, I135 (4 RGB ground-truth images of the 'woodwall' scenario)
-            Output:  10 pairs of images. Each pair consists of a polarization parameter's original image and the demosaiced one.
-            An Excel, recording those 10 pairs of images' PSNRs.
+            Output:  10 pairs of images. Each pair consists of a polarization parameter's original image and the demosaiced one;
+                     an Excel, recording those 10 pairs of images' PSNRs.
 
             2. GET_EXCEL.m & run_database.m
-            *GET_EXCEL.m: This code can output the PSNRs of more than one scenario's polarization parameters at one time. It uses the function 'run_database.m' in 
-                         the process.
+            *GET_EXCEL.m: This code can output the PSNRs of more than one scenario's polarization parameters at one time. It uses the function 'run_database.m' in the process.
             Input:   120 RGB images (30 scenarios' I0, I45, I90 and I135 ground-truth images, named in a specific order. )      
             Output:  An Excel, recording those 30 scenarios' PSNRs, each scenario contains 10 pairs of polarization parameters.
 
@@ -36,7 +35,7 @@
 
             4. The 'general_functions' folder
             *Functions and images that will be used in every algorithm.
-            The 'woodwall' scenario's 4 RGB images mentioned above used in every 'Run_XXX.m' function.
+            The 'woodwall' scenario's 4 RGB images mentioned above and used in every 'Run_XXX.m' function.
             normalize2D.m:      normalize a 2D matrix.
             calculateStokes.m:  get 5 polarization parameters (S0, S1, S2, AOLP, DOLP) from the scenario's I0, I45, I90 and I135.
             Impsnr.m:           get the PSNR of an image pair (except for AOLP images)
