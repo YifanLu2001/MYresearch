@@ -8,7 +8,7 @@
 
            1. View the demosaicked images of one algorithm:
             Download the algorithm's folder and the 'general_functions' folder. PUT THE LATTER INTO THE FORMER.
-            Run code 'Run_XXX.m' with MATLAB. Demosaicked images will pop up and also be stored in the folder 'Results'.                   
+            Run code 'Run_XXX.m' with MATLAB. Demosaicked images will pop up and also be stored in the newly-created folder 'Results'.                   
 
            2. Get a PSNR Excel by 30 scenarios of one algorithm:
             Download the algorithm's folder, the 'general_functions' folder and the 'RGB_images' folder. PUT THE LAST 2 INTO THE FIRST FOLDER.
